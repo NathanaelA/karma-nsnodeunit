@@ -1,0 +1,32 @@
+{
+  "name": "karma-nsnodeunit",
+  "version": "0.2.0",
+  "description": "A Karma plugin. Adapter for the Nodeunit testing framework for NativeScript.",
+  "main": "lib/index.js",  
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathanaela/karma-nsnodeunit.git"
+  },
+  "bugs": {
+    "url": "http://github.com/nathanaela/karma-nsnodeunit/issues"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-adapter",
+    "nodeunit",
+	"nativescript"
+  ],
+  "author": "Adam Hull <adam@hmlad.com>",
+   "contributors": [
+    {
+      "name": "Nathanael Anderson",
+      "email": "Nathan@master-technology.com"
+    }],
+  "maintainers": [
+    {
+      "name": "Nathanael Anderson",
+      "email": "Nathan@master-technology.com"
+    }],
+  "dependencies": {},
+  "license": "MIT"
+}
